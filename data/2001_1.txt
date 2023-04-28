@@ -1,0 +1,36 @@
+>Year:
+2001
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Draft of human genome sequence published
+>Text:
+The human genome project published the initial analysis of the human genome sequence. Scientists were able to find that the number of genes were around 30,000 - 35,000 which was lower than they were expecting.
+>Media:
+https://unlockinglifescode.org/sites/default/files/2001.jpg
+>Media Credit:
+Nature maginze 
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technical advancement 
+>Background:
+-

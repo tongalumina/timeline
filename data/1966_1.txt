@@ -1,0 +1,38 @@
+>Year:
+1966
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Nirenberg, Khorona and Holley determine genetic code
+>Text:
+In the years leading up to 1966, scientists had discovered the structure of DNA and that it was the source of hereditary information. However, scientists could not explain how DNA, a double helix of only four nucleotides, could determine the composition of complex proteins composed of more than twenty amino acids. Marshall Nirenberg set up his “poly-U” experiment, where he used E. Coli bacteria, test tubes containing amino acids and synthetic RNA, to demonstrate that the uracil chain in the RNA served as a  messenger for directing protein synthesis. He had cracked the genetic code and would continue his work, discovering that the coding units for amino acids contained three nucleotides(codons), and would decipher all 64 combinations of RNA codons for all 20 amino acids. Marshall Nirenberg along with Har Gobind Khorana and Robert Holley would be awarded a Nobel Prize in Physiology or Medicine for their work on interpreting the genetic code. Their work paved the way for interpreting the entire human genome, and the field of genetic engineering.
+>Media:
+
+
+https://4.bp.blogspot.com/_DZH2cmCoois/Rl3Jq0UN6SI/AAAAAAAACO4/roDN-QGJdgI/s400/Nobel_Laureates_1968_Holley_Khorana_Nirenberg.bmp
+>Media Credit:
+https://sandwalk.blogspot.com/2007/05/nobel-laureates-robert-w-holley-har.html
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Conceptual advances
+>Background:
+-

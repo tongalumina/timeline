@@ -1,0 +1,36 @@
+>Year:
+1910
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Albrecht Kossel wins nobel prize
+>Text:
+Although scientists knew that “nuclein” existed, they were unsure exactly what its structure and function were. Albrecht Kossel underwent the task to determine the chemical composition of the non-protein component of “nuclein”. He started his experiment by collecting specimens, primarily organs, from a butcher shop. He extracted and isolated from the organs what we now call “nucleotides”. He discovered and named two nucleotides he found which were guanine and adenine. Soon after, he would receive samples of a thymus, where he would isolate and name thymine and cytosine. Albrecht Kossel went on to receive a Nobel Prize in Physiology or Medicine for his discovery of nucleotide bases. Although Albrecht Kossel did not understand the significance of nucleotide bases at the time, his discovery would pave the way for research on the genetic code and structure of DNA.
+>Media:
+https://www.nobelprize.org/images/kossel-12876-portrait-medium.jpg
+>Media Credit:
+https://www.nobelprize.org/prizes/medicine/1910/kossel/facts/
+>Media Caption:
+Photo of Albrecht Kossel
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Conceptual advances
+>Background:
+-

@@ -1,0 +1,37 @@
+>Year:
+1996
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+First archeal genome sequenced
+>Text:
+Before 1996, scientists believed that the only two branches of life were prokaryotes and eukaryotes. The sequencing of the jannaschii microorganism demonstrated the new branch of life, archaeal. The whole-genome random shotgun method was used in order to sequence the genome. Overall, the scientists were able to accurately predict the 1738 protein-coding sequence. Scientists found that this new group of life didn't have a nucleus like prokaryotes. However, archaeal has several different genes that vary from prokaryotes.     
+
+>Media:
+https://i.pinimg.com/originals/18/6b/48/186b48902f9cc8d2d4fe145bbfea43df.png
+>Media Credit:
+https://marineautotrophschiles.weebly.com/m-jannaschii.html
+>Media Caption:
+A mircoscopic look at the first archel genome sequenced, Methanococcus jannaschii
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technical advancement  
+>Background:
+-

@@ -1,0 +1,36 @@
+>Year:
+1986
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+First automated sequencing instrument developed
+>Text:
+The initial technology designed to sequence DNA, developed in the ’70s, was a breakthrough development at the time, however, it quickly became expensive and required a lot of work from a scientist. Therefore, researchers at the Applied Biosystem Incorporated were searching for a more efficient way to sequences genes. To begin the instrument, used a fluorescent dye to label each nucleotide. This made it possible for the reaction to take place in one column and for the information to read by colour. Researchers could run up 24 samples simultaneously, this would produce a whooping 12,000 letters of DNA per day. Further, the machine was capable of sequencing 96 samples, 500 kilobases and reading 600-bp length bases. Not only was the machine capable of producing a large amount of data in a short period of time, but the first automated sequencing instrument severed as a much more efficient and inexpensive alternative.   
+>Media:
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/DNA-Sequencers_from_Flickr_57080968.jpg/440px-DNA-Sequencers_from_Flickr_57080968.jpg
+>Media Credit:
+https://en.wikipedia.org/wiki/DNA_sequencer#:~:text=The%20first%20automated%20DNA%20sequencer,human%20genome%20project%20in%202001.
+>Media Caption:
+An image of what the first automated equencing instrument looked like
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technological advancement
+>Background:
+-

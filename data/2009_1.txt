@@ -1,0 +1,36 @@
+>Year:
+2009
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Next-generation sequencing
+>Text:
+The production of the next-generation sequencing technology was a major breakthrough and has allowed scientists to sequence an entire human genome in just a day! Next-generation sequencing has revolutionized biological science. Researchers across the globe were still putting Sanger’s sequencing method to use. The technology helps scientists examine various biological systems more efficiently and effectively. The new technology has enabled scientists to perform DNA and RNA sequencing cheaper as well. 
+>Media:
+https://www.youtube.com/watch?v=jFCD8Q6qSTM&ab_channel=AppliedBiologicalMaterials-abm
+>Media Credit:
+Applied Biological Materials - abm on YouTube
+>Media Caption:
+A short overview of the next-generation sequencing
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technological advancement
+>Background:
+-

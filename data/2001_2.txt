@@ -1,0 +1,36 @@
+>Year:
+2001
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Full length of human genome sequenced
+>Text:
+10,00 full length human DNA was sequenced
+>Media:
+https://upload.wikimedia.org/wikipedia/commons/0/08/Dna-split.png
+>Media Credit:
+https://en.wikipedia.org/wiki/Human_Genome_Project
+>Media Caption:
+Photo of Human DNA
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technical advancement 
+>Background:
+-

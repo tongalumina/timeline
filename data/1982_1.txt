@@ -1,0 +1,36 @@
+>Year:
+1982
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Genbank database established
+>Text:
+Prior to the 1980s, before the discovery of the Genbank database, researchers weren’t able to stretch their research and knowledge to the fullest capability, due to the fact that sequencing information, done by other scientists, wasn’t readily available. The Genbank database has allowed the public to have access to nucleotide sequencing for more than 300,000 varied organisms. The database receives information from labs all over.   
+>Media:
+https://www.youtube.com/watch?v=g5a__okj5Zs&ab_channel=JCMrWhite
+>Media Credit:
+JCMrWhite on youtube
+>Media Caption:
+A tutorial on how to use Genbank database
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technological advancement
+>Background:
+-

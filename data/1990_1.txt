@@ -1,0 +1,38 @@
+>Year:
+1990
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Human genome project launched
+>Text:
+The advancements made in the fields of genetics and biotechnology brought forth an ambitious project to map out the entire human genome. The idea of the Human Genome Project was brought up by the U.S Academy of Sciences and would later be adopted by the National Institutes of Health and Department of Energy, and funded by the government. 
+	 At first, the scientific world was sceptical of the feasibility, as the cost of the project could outweigh the benefits. The goal of the Human Genome Project was to identify all the approximately 20 500 genes in human DNA, determine the sequences of chemical base pairs that make up human DNA, store all the information in databases, address ethical issues that may arise, and improve data analysis tools. The Human Genome Project would take many more years to finish, but its founding started one of humanity's greatest scientific undertakings and would require an international collaborative effort. 
+
+>Media:
+https://www.clinicalomics.com/wp-content/uploads/2019/01/1574.jpeg
+>Media Credit:
+-
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+HGP advancement 
+>Background:
+-

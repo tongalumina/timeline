@@ -1,0 +1,36 @@
+>Year:
+1999
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Full scale human sequencing begins
+>Text:
+Scientists involved in the HGP were able to sequence around 90% of the human genome.
+>Media:
+https://mk0labiotecheugl43g7.kinstacdn.com/wp-content/uploads/2020/01/Cloud-genomics-big-dataDNA.jpg
+>Media Credit:
+https://www.labiotech.eu/in-depth/cloud-genomics-big-data-problem/
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technical advancement 
+>Background:
+-

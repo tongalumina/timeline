@@ -1,0 +1,38 @@
+>Year:
+1992
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Second-generation human genetic map developed
+>Text:
+In France, a team of scientists created a microsatellite map of the human genome. A major goal that the Human Genome Project attempted to tackle was the scan of the human genome. Scientists have been able to scan the whole human genome by utilizing microsatellite markers. The first genetic map that was capable of doing this. 
+
+>Media:
+https://www.youtube.com/watch?v=_hz0JGiuwdc&ab_channel=Nikolay%27sGeneticsLessons
+>Media Credit:
+
+Nikolay's Genetics Lessons on youtube 
+>Media Caption:
+Video explaining what mircosatellite is 
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+HGP advancement
+>Background:
+-

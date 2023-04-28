@@ -1,0 +1,36 @@
+>Year:
+1989
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Cystic fibrosis gene identified by positional cloning
+>Text:
+Cystic fibrosis is a fatal disease that many people suffer from all around the globe. Before the identification of the gene, scientists raced to find and pinpoint the gene defect that caused the disease, to improve diagnosis and curb the number of deaths. Utilizing a cloning process, two scientists, Lap-Chee Tsui and Francis Collins from Toronto and Ann Arbor, were able to find the cystic fibrosis gene. Scientists found it vital to determine the protein defect that caused this disease to occur. Lap-Chee Tsui’s team were able to map the gene to chromosome 7. With the identification of the conditions’ genes, immense advances were made in diagnosis and the revelation of better technology. With this new technology, the ability to locate the gene in various patients became possible. 
+>Media:
+https://www.23andme.com/static/img/topics/carrier/cystic_fibrosis/cystic_fibrosis.b20f5f9df301.svg
+>Media Credit:
+https://www.23andme.com/en-ca/topics/carrier/cystic-fibrosis/
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technological advancement
+>Background:
+-

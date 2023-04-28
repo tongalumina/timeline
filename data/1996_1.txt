@@ -1,0 +1,37 @@
+>Year:
+1996
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Yeast sequenced 
+>Text:
+Prior to 1996 scientists had yet to fully sequence a eukaryote. Saccharomyces cerevisiae, yeast, became the first eukaryote to be sequenced. The Saccharomyces cerevisiae was the largest genome sequenced at the time. The task to sequence yeast was split among scientists from Japan, Canada, The United States and The United Kingdom. The team from the United States was responsible for sequencing 21% of the gene. Collectively, these scientists found that yeast has 12 million base pairs and overall 6,000 genes. The information discovered becomes extremely useful in determining the function of human genes that cause disease such as cancer. 
+
+>Media:
+https://www.eurekalert.org/multimedia/pub/web/149777_web.jpg
+>Media Credit:
+https://www.eurekalert.org/multimedia/pub/149777.php
+>Media Caption:
+A microscopic look at "bakers yeast"
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technical advancement  
+>Background:
+-

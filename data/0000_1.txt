@@ -1,0 +1,36 @@
+>Year:
+-
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Milestones in Genomics
+>Text:
+This is a timeline of the major milestones in the development of genomics, starting from the discovery of the gene by Gregor Mendel in the 1860s to the modern day. <p> <smaller> Prepared by <li> Brooke Joseph, Academie Ste Cecile International School, Windsor </li> <li>  Bobby Van, University of Windsor </li> <p> Supervised by Dr. <a href="https://tonglab.ca">Yufeng Tong</a>, University of Windsor</smaller></p>
+>Media:
+-
+>Media Credit:
+Brooke Joseph
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+title
+>Group:
+-
+>Background:
+-

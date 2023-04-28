@@ -1,0 +1,37 @@
+>Year:
+1994
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+HGP’s human genetic mapping goal achieved
+>Text:
+A goal that the Human Genome Project was attempting to tackle was to develop a detailed map of the human genome. Using a genetic map became a vital part of what scientists used to detect genes responsible for a disease. The new results allowed scientists to detect what chromosome possessed a particular gene and where it was in that chromosome. Scientists found that when a genetic marker is inherited with a disease gene, that gene is near the genetic marker.  
+
+>Media:
+https://www.slingshothealth.com/blog/wp-content/uploads/2019/04/Breakthroughs-of-the-Human-Genome-Project.png
+>Media Credit:
+https://www.slingshothealth.com/blog/2019/04/25/top-10-breakthroughs-of-the-human-genome-project/
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+HGP advancement 
+>Background:
+-

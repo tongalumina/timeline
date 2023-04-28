@@ -1,0 +1,36 @@
+>Year:
+1998
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Incorporation of genes into human genome map
+>Text:
+Scientists were able to calculate around 20,000 genes in the human body. This is roughly one third of the human body’s genes.
+>Media:
+https://www.genome.gov/sites/default/files/1.4.1_DNA_testing.jpg
+>Media Credit:
+https://www.genome.gov/human-genome-project
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technical advancement
+>Background:
+-

@@ -1,0 +1,37 @@
+>Year:
+2020
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Genome SARS-Cov-2 sequenced 
+>Text:
+At the beginning of 2020, a global pandemic struck the globe. As the virus grew rampant throughout the world, scientists worked together eagerly to sequence the gene, in order to develop a better understanding of the virus. With this mass collaboration, between scientists all over the globe, the gene was sequenced. Various scientists took different approaches in order to provide as much information about the virus, as soon as they could. Researchers began by taking samples through a nasal swab. However, scientists found it difficult to detect the virus’s nucleic acid. Regardless, researchers used a shotgun genetic sequencing method. They then sequenced the entire sample and found which ones correspond to the virus. Scientists were then able to map the mutations and trace the transmission of the virus.  
+
+>Media:
+https://c.files.bbci.co.uk/D505/production/_115033545_gettyimages-1226314512.jpg
+>Media Credit:
+-
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+-
+>Background:
+-

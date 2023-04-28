@@ -1,0 +1,36 @@
+>Year:
+1953
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Watson and Crick's discovery
+>Text:
+A central problem that numerous scientists came across, prior to 1953, was that they weren’t capable of formulating a comprehensive understanding of the genetic code that makes up our body. Scientists required a detailed understanding of a three-dimensional model of the gene. Collectively, British scientist James Watson and American scientist Francis Crick utilized x-ray crystallography to view the architecture of DNA. They discovered that DNA was made up of two chains of nucleotides. Additionally, they found that nitrogen bases can have several combinations. With the discovery of the double-helix model, the scientists formulated a list of features the model must entail. For one, two distinct polynucleotides chains wrapped around an axis to form a double helix. The second significant principle was that the two strands of DNA ran in opposite directions. 
+>Media:
+https://www.thoughtco.com/thmb/ufnH8PBs4JJdopc5AUFRpFKWt-M=/1000x1000/smart/filters:no_upscale()/DNA_double_helix-2-28f804b6171f403bbb83bcdaab167668.jpg
+>Media Credit:
+https://www.thoughtco.com/double-helix-373302
+>Media Caption:
+Image of DNA 
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Conceptual advances
+>Background:
+-
