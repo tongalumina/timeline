@@ -19,7 +19,7 @@
 >Headline:
 First human disease gene mapped with DNA markers- huntington disease
 >Text:
-Huntington's disease is a neurodegenerative disease that impacts the brain. Prior to the sequencing and location of the Huntington disease gene, hundreds of people died of the disease. Researchers and physicians had no idea what provoked the disease or how to diagnose it. Scientists worked tirelessly to establish a detailed gene map of the disease. Huntington disease was the first disease to be associated with a chromosome, particularly chromosome 4p. The nucleotide CAG is replicated in a segment of the HTT genome, according to scientists. Patients with 6-35 CAG repeats are less likely to develop Huntington disease. 
+Huntington's disease is a neurodegenerative disease that impacts the brain. Prior to the sequencing and location of the Huntington's disease gene, hundreds of people died of the disease. Researchers and physicians had no idea what provoked the disease or how to diagnose it. Scientists worked tirelessly to establish a detailed gene map of the disease. Huntington's disease was the first disease to be associated with a chromosome, particularly chromosome 4p. The nucleotide CAG is replicated in a segment of the HTT genome, according to scientists. Patients with 6-35 CAG repeats are less likely to develop Huntington's disease. 
 >Media:
 https://medlineplus.gov/images/PX0000YK_PRESENTATION.jpeg
 >Media Credit:
