@@ -19,7 +19,7 @@
 >Headline:
 HGP completed and all goals achieved
 >Text:
-After 13 years, work on the Human Genome Project has concluded. The project began in 1990 and was completed two years early. The project cost significantly less than the expected budget. For the first time in history, scientists were able to read the human genetic blueprint. The Human Genome Project provided the world with detailed information on the structure, organization and function of the entire set of human genes. However, this was not the only product of the Human Genome Project, scientists developed newer technologies to study genomes and to sequence other model organisms. 
+After 13 years, work on the Human Genome Project was completed. The project first began in 1990 and was completed two years early. The project had cost significantly less than the expected budget. For the first time in history, scientists were able to read the human genetic blueprint. The Human Genome Project provided the world with detailed information on the structure, organization and function of the entirity of the human genome. However, this was not the only product of the Human Genome Project, scientists developed newer technologies to study genomes and to sequence other model organisms. 
 
 >Media:
 https://unlockinglifescode.org/sites/default/files/HGParchiveBannerArt.jpg
