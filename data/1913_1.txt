@@ -17,9 +17,9 @@
 >Display Date:
 -
 >Headline:
-Alfred Sturtevant and Thomas Morgan makes first linear map of genes 
+Alfred Sturtevant and Thomas Morgan make the first linear map of genes 
 >Text:
-For years prior to 1913, many scientists weren’t able to fully extend their knowledge, in terms of determining where a specific gene is located to a particular region of a chromosome. Alfred Sturtevant was puzzled about how to find some sort of innovation that would make this possible. In 1913, Alfred Sturtevant and Thomas Morgan developed the first gene map with the use of the fruit fly Drosophila. They watched as a fly’s offspring's eye colours and wings size varied. Sometimes it appeared as though one of their parents while the other had a combination of both parents. Alfred Sturtevant then suggested that the frequency of crossover can approximate the distance between genes. Furthermore, with this idea in mind, they formulated a map that is now used globally by scientists to accurately determine where a gene is located, in terms of the region of a chromosome.    
+For years prior to 1913, many scientists were unsure how to determine where a specific gene is located in a particular region of a chromosome. In 1913, Alfred Sturtevant and Thomas Morgan developed the first gene map with the use of the fruit fly, Drosophila. They observed that fruit fly offspring varied in eye colour and wing size. Sometimes the offspring resembled one of the parents, while others appeared to have a mix of traits from both parents. Alfred Sturtevant then suggested that the frequency of genetic crossover can result from the approximate distance between genes on the chromosome. Furthermore, they formulated a map that is now used globally by scientists to accurately determine where a gene is located, based on the region of a given chromosome.    
 
 >Media:
 https://www.youtube.com/watch?v=cAFAjYq_68I&ab_channel=TheExplorer%27sGuidetoBiology
