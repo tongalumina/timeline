@@ -17,9 +17,8 @@
 >Display Date:
 -
 >Headline:
-First generation human genetic map developed
->Text:
-The first genetic map was created by using roughly 400 restriction fragment length polymorphisms. Scientists were able to have a better look at this when DNA was digested with restriction enzymes. The developed human genetic map has helped to pinpoint where genes are responsible for certain diseases throughout the human body. 
+First-generation human genetic map developed
+>Text: The first genetic map was produced with the use of approximately 400 restriction fragment length polymorphisms. Scientists were able to have a better look at this when DNA was digested with restriction enzymes. The developed human genetic map has helped to pinpoint which genes are responsible for certain diseases throughout the human body. 
 >Media:
 https://www.genome.gov/sites/default/files/inline-images/Genetic-mapping_Fact-sheet2020.jpg
 >Media Credit:
