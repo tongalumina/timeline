@@ -17,15 +17,15 @@
 >Display Date:
 -
 >Headline:
-First bacterial genome sequenced
+The first bacterial genome sequenced
 >Text:
-Haemophilus influenzae was the first bacteria to be sequenced 
+Haemophilus influenza was the first bacteria to be sequenced. 
 >Media:
 https://www.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/Haemophilus-influenzae-disease_H.jpg?itok=RcETse5Z
 >Media Credit:
 Image from European Centre for Disease Prevention and Control
 >Media Caption:
-A mircro look at Haemophilus influenzae
+A micro look at Haemophilus influenzae
 >Media Thumbnail:
 -
 >Type:
