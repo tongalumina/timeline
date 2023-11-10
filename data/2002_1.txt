@@ -19,7 +19,7 @@
 >Headline:
 Draft of version of rice genome sequence completed and published
 >Text:
-Two groups of researchers were able to fully sequence rice. They originally examined rice to have 43,000 to 63,000 genes however the number was significantly lower at around 38,000 genes. With the rice being sequenced scientists have been able to have rice grow in a variety of different climates and environments.
+Two groups of researchers were able to sequence the full rice genome. Originally, rice was found to have 43,000 to 63,000 genes. However, the true number was significantly lower, at around 38,000 genes. With the rice genome sequencing complete, it is now possible to grow rice in a variety of climates and environments. 
 >Media:
 https://assets.bonappetit.com/photos/5ccc59208107100a1353aa71/8:5/w_3600,h_2250,c_limit/Basically-Pork-Meatballs-Rice-Macro.jpg
 >Media Credit:
