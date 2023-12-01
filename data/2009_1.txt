@@ -17,9 +17,9 @@
 >Display Date:
 -
 >Headline:
-Next-generation sequencing
+Next-Generation Sequencing (NGS)
 >Text:
-The production of the next-generation sequencing technology was a major breakthrough and has allowed scientists to sequence an entire human genome in just a day! Next-generation sequencing has revolutionized biological science. Researchers across the globe were still putting Sanger’s sequencing method to use. The technology helps scientists examine various biological systems more efficiently and effectively. The new technology has enabled scientists to perform DNA and RNA sequencing cheaper as well. 
+The Next-Generation Sequencing method (NGS) production allowed scientists to sequence the entire human genome in a single day. This new technology revolutionized biological science. Until now, researchers were still using Sanger’s sequencing method. Additionally, NGS has enabled scientists to perform DNA and RNA sequencing at a lower cost, with biological systems being examined more efficiently.
 >Media:
 https://www.youtube.com/watch?v=jFCD8Q6qSTM&ab_channel=AppliedBiologicalMaterials-abm
 >Media Credit:
