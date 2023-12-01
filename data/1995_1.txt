@@ -19,7 +19,7 @@
 >Headline:
 HGP human physical mapping achieved
 >Text:
-A detailed map is crucial for finding genes and developing an overall better understanding of the various structures. The original plan was to place markers for every 100,000 base pairs. However, scientists were able to accomplish a major part of the goal by 1995. 
+A detailed genomic map is crucial for identifying genes and developing a better understanding of its various structures. The original plan was to place markers for every 100,000 base pairs. However, a great deal of the human genome project was completed by 1995, earlier than expected. 
 >Media:
 https://www.thoughtco.com/thmb/LGHgBsOOB882Cs-RJydjFVaUYxg=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/genetic-individuality--male-body-with-dna-548001023-59f9d183af5d3a0010859452.jpg
 >Media Credit:
