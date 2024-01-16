@@ -19,7 +19,7 @@
 >Headline:
 Albrecht Kossel wins nobel prize
 >Text:
-Albrecht Kossel won the Nobel Prize in Physiology or Medicine for his pioneering work on the chemical composition and function of "nuclein". At the time, it was known that nuclein existed as the non-protein component of the cell nuclei, although its structure and function were still unknown to science. Through his work, he identified the four nucleotide bases of DNA. To do this, he collected organs from a butcher shop and isolated the nucleotides from them. He discovered and named two nucleotides, guanine and adenine. Soon after, he would isolate thymine and cytosine from a sample of a thymus. Although Albrecht Kossel did not understand the significance of nucleotide bases at the time, his discovery would pave the way for research on DNA's genetic code and structure.
+Albrecht Kossel won the Nobel Prize in Physiology or Medicine for his pioneering work on the chemical composition and function of "nuclein". At the time, it was known that nuclein existed as the non-protein component of the cell nuclei, although its structure and function were still unknown to science. Through his work, he identified the four nucleotide bases of DNA. To do this, he collected organs from a butcher shop and isolated the nucleotides from them. He discovered and named two nucleotides, guanine and adenine. Soon after, he would isolate thymine and cytosine from a sample of a thymus. Although Albrecht Kossel did not understand the significance of nucleotide bases at the time, his discovery would pave the way for research on the genetic code and structure of DNA.
 >Media:
 https://www.nobelprize.org/images/kossel-12876-portrait-medium.jpg
 >Media Credit:
