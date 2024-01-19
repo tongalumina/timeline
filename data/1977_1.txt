@@ -17,7 +17,7 @@
 >Display Date:
 -
 >Headline:
-Maxan and Gilbert developed DNA sequencing methods
+Maxam and Gilbert developed DNA sequencing methods
 >Text:
 Throughout the early 1970s, scientists were able to interpret genetic codes and sequences of specific amino acids and proteins, but they were not able to interpret nucleotide sequences. Together, Allan Maxam and Walter Gilbert worked to develop techniques that could sequence DNA to this capacity. The Gilbert-Maxam method entailed the careful multiplying and dividing of DNA into distinct fragments. With these new techniques, DNA sequencing was faster and more efficient. The method made it possible to read nucleotide sequences for an entire gene. The Gilbert-Maxam method was one of the two primary DNA sequencing methods, the other being the Sanger sequencing method. Both methods were instrumental in the field of genetics and led to the Human Genome Project, which aimed to sequence the entire human genome. 
 >Media:
