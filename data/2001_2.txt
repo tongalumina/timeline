@@ -19,11 +19,11 @@
 >Headline:
 The human genome is sequenced in its entirety 
 >Text:
-10,00 full-length human DNA was sequenced
+90% of the human genome is sequenced
 >Media:
 https://upload.wikimedia.org/wikipedia/commons/0/08/Dna-split.png
 >Media Credit:
-https://en.wikipedia.org/wiki/Human_Genome_Project
+https://www.genome.gov/10002192/2001-release-first-analysis-of-human-genome
 >Media Caption:
 Photo of Human DNA
 >Media Thumbnail:
