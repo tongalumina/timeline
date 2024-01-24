@@ -19,7 +19,7 @@
 >Headline:
 $1,000 genome project
 >Text:
-Many scientists and researchers found that sequencing genomes was an extremely expensive and time-consuming process. A leading company in biotechnology, Illumina, introduced a new kind of technology to sequence a human cell for $1,000. The machine consisted of a combination of ten different machines called HiSeq X and was the first system capable of sequencing a genome for only $1,000. With a cheaper method of sequencing human DNA, scientists were able to produce better drugs and diagnostic tests. HiSeq X breaks down DNA into small fragments and then attaches DNA fragment adopters to these fragments. The DNA and adopters are then placed into a sodium hydroxide solution. 
+Many scientists and researchers found that sequencing genomes was an extremely expensive and time-consuming process. A leading company in biotechnology, Illumina, introduced technology to sequence the DNA in a human cell for $1,000. The machine consisted of a combination of ten different machines called HiSeq X and was the first system capable of sequencing a genome for only $1,000. With a cheaper method of sequencing human DNA, scientists were able to produce better drugs and diagnostic tests. HiSeq X breaks down DNA into small fragments and then attaches DNA fragment adopters to these fragments. The DNA and adopters are then placed into a sodium hydroxide solution. 
 >Media:
 https://www.nature.com/news/polopoly_fs/7.16216.1395137087!/image/1000dollar-genome-top.jpg_gen/derivatives/landscape_630/1000dollar-genome-top.jpg
 >Media Credit:
