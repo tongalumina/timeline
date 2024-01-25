@@ -19,7 +19,7 @@
 >Headline:
 Genome SARS-Cov-2 sequenced 
 >Text:
-At the beginning of 2020, a novel virus emerged. As the virus quickly grew into a global pandemic, scientists worked together to sequence its genome and to develop a better understanding of the virus. With this mass collaboration between scientists all over the globe, the genome was sequenced. Initially, researchers suggested sampling nasal swabs to detect the virus. However, it was difficult to detect the virus's nucleic acid. Researchers then used a shotgun genetic sequencing method. They sequenced the entire sample and found which nucleotides corresponded to the COVID-19 virus genome. Scientists were then able to map the mutations and track the transmission of the virus.  
+At the beginning of 2020, a novel virus emerged. As the virus quickly grew into a global pandemic, scientists worked together to sequence its genome and to develop a better understanding of the virus. With this mass collaboration between scientists all over the globe, the genome was sequenced. Initially, researchers suggested sampling nasal swabs to detect the virus. However, it was difficult to detect the nucleic acid in the virus. Researchers then used the shotgun genetic sequencing method. They sequenced the entire sample and found which nucleotides corresponded to the COVID-19 virus genome. Scientists were then able to map the mutations and track the transmission of the virus.  
 
 >Media:
 https://c.files.bbci.co.uk/D505/production/_115033545_gettyimages-1226314512.jpg
