@@ -19,7 +19,7 @@
 >Headline:
 Genbank database established
 >Text:
-Before the discovery of the GenBank database in the 1980s by Walter Goad at the Los Alamos National Laboratory, DNA sequencing information created by other scientists was not widely available.  The creation of the GenBank database has allowed public access to nucleotide sequences for more than 300,000 varied organisms. The database receives information from labs all over the world. The GenBank database is important to the scientific community due to its collective pool of up-to-date information, ready to be utilized for any research project at a moments notice.   
+Before the discovery of the GenBank database by Walter Goad at the Los Alamos National Laboratory, DNA sequencing information created by other scientists was not widely available. The creation of the GenBank database in the 1980s has allowed public access to nucleotide sequences for more than 300,000 varied organisms. The database receives information from labs all over the world. The GenBank database is important to the scientific community due to its collective pool of up-to-date information, ready to be utilized for any research project at a moment's notice.   
 >Media:
 https://www.youtube.com/watch?v=g5a__okj5Zs&ab_channel=JCMrWhite
 >Media Credit:
