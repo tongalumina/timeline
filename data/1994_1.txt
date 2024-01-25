@@ -19,7 +19,7 @@
 >Headline:
 HGP’s human genetic mapping goal achieved
 >Text:
-The Human Genome Project was attempting to tackle the development of a detailed map of the human genome. The use of a genetic map became a vital part of what scientists used to detect genes responsible for a disease. These new findings allowed scientists to detect which chromosome possessed a particular gene and where it was in that chromosome. Scientists found that when a genetic marker is inherited with a disease gene, that gene is near the genetic marker.  
+The Human Genome Project developed a detailed map of the human genome. The use of a genetic map became a vital part of what scientists used to detect genes responsible for a disease. These new findings allowed scientists to detect which chromosome possessed a particular gene and where it was in that chromosome. Scientists found that when a genetic marker is inherited with a disease gene, that gene is near the genetic marker.  
 
 >Media:
 https://image.slidesharecdn.com/humangenomeproject-170217141511/75/human-genome-project-1-2048.jpg?cb=1665843412
