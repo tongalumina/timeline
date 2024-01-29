@@ -19,7 +19,7 @@
 >Headline:
 Human inborn errors in metabolism
 >Text:
-At this time, scientists were often oblivious to the full mechanism underlying the metabolism. An English scientist, Archibald Garrod, sought to build a stronger understanding of our metabolism. Additionally, he wanted to understand how inherited disorders, such as alkaptonuria and albinism come to be. With the concept of Mendelian law in mind, Garrod demonstrated the complexity of metabolism. He accomplished this by proving the involvement of metabolites in normal pathways and how they may vary. Garrod found that inherited disorders are caused by low amounts or no enzymes in specific biochemical pathways. 
+At this time, scientists were often oblivious to the full mechanism underlying the metabolism. An English scientist, Archibald Garrod, sought to build a stronger understanding of our metabolism. Additionally, he wanted to understand how inherited disorders, such as alkaptonuria and albinism come to be. With the concept of Mendelian law in mind, Garrod demonstrated the complexity of metabolism. He accomplished this by proving the involvement of Metabolites in normal pathways and how they may vary. Garrod found that inherited disorders are caused by low amounts or no enzymes in specific biochemical pathways. 
 
 >Media:
 https://assets.sutori.com/user-uploads/image/00c128d5-34ef-46a1-baeb-c89c6701a71b/f48bf5b5e98a750c29db078824d7587d.jpeg
