@@ -19,7 +19,7 @@
 >Headline:
 HGP completed and all goals achieved
 >Text:
-After 13 years, work on the Human Genome Project was complete. The project first began in 1990 and was completed two years earlier than expected. The total costs of the Human Genome Project were far lower than expected. For the first time in scientific history, it was possible to sequence the full human genome. The Human Genome Project provided valuable information on the structure, organization, and function of 92% of the human genome, the rest was thought to be "junk DNA". Interestingly, the majority of this "junk DNA" was found to be functional and protein-coding in 2022. In addition, this was not the only product of the Human Genome Project; new technologies to study genomes and sequence other model organisms had been developed.  
+After 13 years, work on the Human Genome Project was complete. The project first began in 1990 and, it was completed two years earlier than expected. The total costs of the Human Genome Project were far lower than expected. For the first time in scientific history, it was possible to sequence the full human genome. The Human Genome Project provided valuable information on the structure, organization, and function of 92% of the human genome, the rest was thought to be "junk DNA". Interestingly, the majority of this "junk DNA" was found to be functional and protein-coding in 2022. In addition, this was not the only product of the Human Genome Project; new technologies to study genomes and sequence other model organisms had been developed.  
 
 >Media:
 https://www.nih.gov/sites/default/files/styles/floated_media_breakpoint-large/public/news-events/research-matters/2022/20220412-dna.jpg?itok=5NMECh8Q&timestamp=1649772844
