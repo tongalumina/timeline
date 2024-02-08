@@ -19,7 +19,7 @@
 >Headline:
 Yeast sequenced 
 >Text:
-Before 1996, scientists had yet to fully sequence the DNA of a eukaryote. Saccharomyces cerevisiae (yeast) became the first eukaryote to be sequenced. The genome of saccharomyces cerevisiae was the largest to be sequenced at the time. The task of sequencing yeast was split among scientists from Japan, Canada, the United States, and the United Kingdom. A team from the United States was responsible for sequencing 21% of the gene. Collectively, these scientists found that saccharomyces cerevisiae has 12 million base pairs and 6,000 genes. These findings became extremely useful in determining the function of human genes that cause disease. 
+Before 1996, scientists had yet to fully sequence the DNA of a eukaryote. Saccharomyces cerevisiae (yeast) became the first eukaryote to be sequenced. The genome of saccharomyces cerevisiae was the largest to be sequenced at the time. The task of sequencing yeast was split among scientists from Japan, Canada, the United States, and the United Kingdom. A team from the United States was responsible for sequencing 21% of the gene. Collectively, these scientists found that saccharomyces cerevisiae had 12 million base pairs and 6,000 genes. These findings became extremely useful in determining the function of human genes that cause disease. 
 
 >Media:
 https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae#/media/File:Saccharomyces_cerevisiae_SEM.jpg
