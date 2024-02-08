@@ -19,7 +19,7 @@
 >Headline:
 Cystic fibrosis gene identified by positional cloning
 >Text:
-Cystic fibrosis is a fatal disease that affects much of the global population. Before the identification of the gene, scientists raced to pinpoint the gene defect that causes the disease; to improve diagnosis and reduce mortality. Utilizing a cloning process, two scientists, Lap-Chee Tsui and Francis Collins from Toronto and Ann Arbor respectively, succeeded in this endeavor. Lap-Chee Tsui’s team was able to map the gene to chromosome 7. With the identification of this gene, immense advances were made in the diagnosis of Cystic Fibrosis, with this new technology the ability to locate the gene in various patients became possible. 
+Cystic fibrosis is a fatal genetic disease. Before the identification of the gene, scientists raced to pinpoint the gene defect that causes the disease; to improve diagnosis and reduce mortality. Utilizing a cloning process, two scientists, Lap-Chee Tsui and Francis Collins from Toronto and Ann Arbor respectively, succeeded in this endeavor. Lap-Chee Tsui’s team was able to map the gene on chromosome 7. With the identification of this gene, immense advances were made in the diagnosis of Cystic Fibrosis, with this new technology the ability to locate the gene in various patients became possible. 
 >Media:
 https://www.23andme.com/static/img/topics/carrier/cystic_fibrosis/cystic_fibrosis.b20f5f9df301.svg
 >Media Credit:
