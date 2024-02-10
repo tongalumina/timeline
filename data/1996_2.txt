@@ -19,7 +19,7 @@
 >Headline:
 Mouse HGP achieved
 >Text:
-Researchers worked to find animals that had a similar genetic code to that of human beings. With more extensive research, it was found that the DNA of a mouse was similar to that of a human. A map produced by Eric Lander, a researcher at MIT, used approximately 7,377 markers. There was 1 marker for every 400,000 nucleotide base. The new map provided insights into all 20 mouse chromosomes. Overall, this map provided a deeper look into the genetic makeup of a mouse. The findings showed that there was an 85% similarity between the genetic information of a mouse and a human. This meant that scientists were able to conduct experiments on mice and observe the results, before attempting it on human subjects.  
+Researchers worked to find animals that had a similar genetic code to that of human beings. With more extensive research, it was found that the DNA of a mouse was similar to that of a human. A map produced by Eric Lander, a researcher at MIT, used approximately 7,377 markers. There was 1 marker for every 400,000 bases. The new map provided insights into all 20 mouse chromosomes. Overall, this map provided a deeper look into the genetic makeup of a mouse. The findings showed that there was an 85% similarity between the genetic information of a mouse and a human. This meant that scientists were able to conduct experiments on mice and observe the results, before attempting it on human subjects.  
 
 >Media:
 https://www.nih.gov/sites/default/files/styles/floated_media_breakpoint-medium/public/news-events/research-matters/2014/20141208-genomes.jpg?itok=fuKfqEju&timestamp=1431545791
