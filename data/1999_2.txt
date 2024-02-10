@@ -19,7 +19,7 @@
 >Headline:
 Sequence of the first human chromosome completed
 >Text:
-At this point, scientists were able to fully sequence a human chromosome. Researchers from around the world used the clone-by-clone method to decipher where the location of a specific chromosome is. The first chromosome sequenced was chromosome 22. It became the longest length of DNA decoded and assembled. Furthermore, the sequencing of the chromosomes resulted in the understanding of the chemical components of DNA. These included the major chemical building blocks, the letters A (adenine), T (thymine), G (guanine), and C (cytosine). They concluded that the arrangement of these letters determined our genetic makeup. 
+At this point, scientists were able to fully sequence a human chromosome. Researchers from around the world used the clone-by-clone method to decipher the exact location of a specific chromosome. The first chromosome sequenced was chromosome 22. It became the longest length of DNA decoded and assembled. Furthermore, the sequencing of the chromosomes resulted in an understanding of the chemical components of DNA. These included the major chemical building blocks, the letters A (adenine), T (thymine), G (guanine), and C (cytosine). They concluded that the arrangement of these letters determined our genetic makeup. 
 >Media:
 https://www.icr.org/i/Main%20Stage%20-%201000x563/Fully_Sequenced_1000x563.jpg
 >Media Credit:
