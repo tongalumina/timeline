@@ -19,7 +19,7 @@
 >Headline:
 PacBio sequencing
 >Text:
-The PacBio sequencing technique has allowed for longer "reads" to be calculated from samples of any type. This is helpful for the sequencing of more complex genome sequences and in the detection of structurally variable genomes, which can be difficult to interpret based on short-read sequences. The process occurs at the center of the PacBio sequencing machine, called the SMRT cell. Adapters are placed on the ends of single-stranded DNA or RNA, creating a circular template, and polymerases and primers are added. The SMRTcell contains small holes where single strands of DNA with adapters and polymerases are placed. Light is emitted when polymerase connects labeled nucleotides.
+The PacBio sequencing technique has allowed for longer "reads" to be calculated from samples of any type. This is helpful for the sequencing of more complex genome sequences and in the detection of structurally variable genomes, which can be difficult to interpret based on short-read sequences. The process occurs at the center of the PacBio sequencing machine, called the SMRT cell. Adapters are ligated to the ends of single-stranded DNA or RNA, creating a circular template, and polymerases and primers are added. The SMRTcell contains small holes where single strands of DNA with adapters and polymerases are placed. Light is emitted when polymerase connects labeled nucleotides.
 
 >Media:
 https://www.researchgate.net/profile/Lev-Jardon-Barbolla/publication/268816439/figure/fig5/AS:295295213686790@1447415273876/Single-molecule-real-time-sequencing-SMRT-Pac-Bio-Single-molecules-of-polymerase.png
