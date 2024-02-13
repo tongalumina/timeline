@@ -19,7 +19,7 @@
 >Headline:
  Erwin Chargaff works on pairing pattern 
 >Text:
-Avery’s discovery that DNA is a hereditary material was met with skepticism, many scientists believed that genetic material could not be the cause of biodiversity, as the quantity of DNA bases does not fluctuate. Avery’s work inspired the biochemist Erwin Chargaff to dedicate his research to discovering more about DNA. Using paper chromatography and ultraviolet absorption, he isolated the four nitrogenous bases and then measured their quantities in the DNA sample. From his experiment, he made two key observations. He found that the proportions of bases vary depending on the species and that each nitrogenous base pair appears in an equal 1:1 ratio. Now known as Chargaff’s Rule, this ratio would later help inform Watson and Crick of the structure of DNA.
+Avery’s discovery that DNA is a hereditary material was met with skepticism, many scientists believed that genetic material did not underlie the biodiversity of life on earth, as the quantity of DNA bases does not fluctuate. Avery’s work inspired the biochemist Erwin Chargaff to dedicate his research to discovering more about DNA. He isolated the four nitrogenous bases using paper chromatography and ultraviolet absorption and then measured their quantities in the DNA sample. From his experiment, he made two key observations. He found that the proportion of bases varies depending on the species and that each nitrogenous base pair appears in an equal 1:1 ratio. Now known as Chargaff’s Rule, this ratio would later help inform Watson and Crick of the structure of DNA.
 
 >Media:
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREm50PGNcInV8px15Ebw1I7MYv5siSNE_tow&usqp=CAU
