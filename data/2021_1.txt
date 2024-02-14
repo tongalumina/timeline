@@ -1,0 +1,21 @@
+>Year:
+2022
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+First known case of horizontal gene transfer occurring between a plant and an animal
+>Text: Horizontal gene transfer between different closely related species may have had a large effect on the evolution of many species of plants, animals, fungi, and bacteria. Chinese researchers studying whiteflies discovered that they acquired a detoxifying gene from plants around 35 million years ago
