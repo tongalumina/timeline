@@ -19,3 +19,17 @@
 >Headline:
 First known case of horizontal gene transfer occurring between a plant and an animal
 >Text: Horizontal gene transfer between different closely related species may have had a larger effect on the evolution of many species of plants, animals, fungi, and bacteria than previously thought. Different organisms can transfer DNA through recombination or insertion. Chinese researchers studying whiteflies discovered that the flies acquired a detoxifying gene from plants around 35 million years ago, a surprising example of interkingdom horizontal gene transfer. The whitefly adapted a phenolic glucoside malonyltransferase gene BtPMaT1 that allowed it to overcome plant toxins, typically used to defend against predators. Due to its acquired plant detoxification gene, the whitefly has become an agricultural pest. 
+>Media:
+https://media.nature.com/lw767/magazine-assets/d41586-021-00782-w/d41586-021-00782-w_18990036.jpg?as=webp 
+>Media Credit:
+-
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+-
+>Background:
+-
