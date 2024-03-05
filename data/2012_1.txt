@@ -1,1 +1,38 @@
+>Year:
+2012
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+CRISPR-Cas9 gene editing technology is developed
+>Text
+2012 marks the year that the CRISPR system in certain bacteria was first hijacked for targeted gene editing and manipulation. American scientist Jennifer Doudna and French scientist Emmanuelle Charpentier discovered the technology, while Feng Zhang and colleagues refined it. CRISPR-Cas9 involves the transcription of the CRISPR region of bacterial DNA, resulting in the production of guide RNAs that are capable of binding to the targetted DNA sequence. This allows the Cas9 enzyme to bind to the sequence that will be edited. Cas9 will cut the DNA at both strands, which will be repaired with the desired mutation. 
+
+>Media:
+https://labassociates.com/wp-content/uploads/2022/10/crispr-720x720.jpg 
+>Media Credit:
+- https://www.yourgenome.org/theme/what-is-crispr-cas9/ 
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+-
+>Background:
+-
 
