@@ -1,1 +1,37 @@
+>Year:
+1977
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+Sanger Sequencing 
+>Text:
+The inventor of Sanger sequencing, Fredrick Sanger won a Nobel prize in 1977 for his work on the development of this novel DNA sequencing technique. The technique involves the incorporation of chain-terminating dideoxynucleotides (ddNTPs), which come in 4 versions resembling the 4 nucleotides in DNA (ddATP, ddCTP, ddGTP, ddTTP), and 4 standard dNTPs (dATP, dCTP, dGTP, dTTP) which do not terminate the strand. 
+>Media:
+
+>Media Credit:
+-
+>Media Caption:
+
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+
+>Background:
+-
 
