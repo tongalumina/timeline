@@ -19,7 +19,7 @@
 >Headline:
 Second-generation human genetic map developed
 >Text:
-In France, a team of scientists created a microsatellite map of the human genome, as a major goal of the Human Genome Project was to scan the human genome. Scientists have been able to scan the entire human genome by utilizing microsatellite markers. 
+In France, a team of scientists created a microsatellite map of the human genome, as a major goal of the Human Genome Project was to scan the human genome. Scientists have been able to scan the entire human genome by utilizing microsatellite markers such as SNPs, STRs, and indels. 
 
 >Media:
 https://www.youtube.com/watch?v=_hz0JGiuwdc&ab_channel=Nikolay%27sGeneticsLessons
@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=_hz0JGiuwdc&ab_channel=Nikolay%27sGeneticsLesson
 
 Nikolay's Genetics Lessons on YouTube 
 >Media Caption:
-Video explaining what a microsatellite is 
+A video explaining microsatellites
 >Media Thumbnail:
 -
 >Type:
