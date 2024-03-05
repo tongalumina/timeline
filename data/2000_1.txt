@@ -19,7 +19,7 @@
 >Headline:
 US President Clinton and UK Prime Minister Blair support free access to genome information
 >Text:
-Together, the President of the United States and the Prime Minister of the United Kingdom agreed to grant the public free access to genomic information from the Human Genome Project. The information is now at the disposal of the public and is subject to two conditions. The data is to be distributed as much as possible, and genetic technology has to be open to private investigation.
+Together, the President of the United States and the Prime Minister of the United Kingdom agreed to grant the public free access to genomic information from the Human Genome Project. The information is now at the disposal of the public and is subject to two conditions. The raw data is to be distributed as much as possible, and private investment in genetic technology is to be encouraged.
 >Media:
 https://s.wsj.net/public/resources/images/BN-MC125_SPOOFj_P_20160113160404.jpg
 >Media Credit:
