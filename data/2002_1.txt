@@ -1,1 +1,32 @@
-
+>Year:
+2002
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+The first draft sequence of mouse genome generated
+>Text:
+The publically funded Mouse Genome Sequencing Consortium pieced together the entire mouse genome and discovered that the sequence contains 30,000 genes with a 99% similarity to the human genome. This development has allowed other scientists to look for disease-causing genes in the mouse genome that can be attributed to both mouse and human genetic diseases. 
+>Media:
+https://time.graphics/uploadedFiles/500/63/35/63351108c4133f3dbbf799845d38766c.jpg
+>Media Credit:
+https://time.graphics/event/752753
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
