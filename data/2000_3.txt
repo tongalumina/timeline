@@ -1,1 +1,37 @@
+>Year:
+2000
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+ Drosophila melanogaster and Arabidopsis thaliana DNA sequenced
+>Text:
+The well-studied organism Drosophila melanogaster, or the fruit fly, had its genome sequenced in the year 2000 by groups at the University of California, Berkley, and the Celera Genomics Corporation. In the same year, the plant Arabidopsis thaliana was also sequenced in its entirety, making it the first plant genome ever sequenced. Drosophila melanogaster and Arabidopsis thalian are both model organisms, the sequencing of their genome was a massive step in the field of biology. 
+>Media:
+https://biology.mit.edu/wp-content/uploads/2021/08/Fly-Pic.jpg
+>Media Credit:
+https://biology.mit.edu/unusual-labmates-fruit-flies/
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+-
+>Background:
+-
 
