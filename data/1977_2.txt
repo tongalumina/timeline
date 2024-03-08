@@ -19,13 +19,13 @@
 >Headline:
 Sanger Sequencing 
 >Text:
-The inventor of Sanger sequencing, Fredrick Sanger won a Nobel prize in 1977 for his work on the development of this novel DNA sequencing technique. The technique involves the incorporation of chain-terminating dideoxynucleotides (ddNTPs), which come in 4 versions resembling the 4 nucleotides in DNA (ddATP, ddCTP, ddGTP, ddTTP), and 4 standard dNTPs (dATP, dCTP, dGTP, dTTP) which do not terminate the strand. 
+The inventor of Sanger sequencing, Fredrick Sanger won a Nobel prize in 1977 for his work on the development of this novel DNA sequencing technique. The technique involves the incorporation of chain-terminating dideoxynucleotides (ddNTPs), which come in 4 versions resembling the 4 nucleotides in DNA (ddATP, ddCTP, ddGTP, ddTTP), and 4 standard dNTPs (dATP, dCTP, dGTP, dTTP) which do not terminate the strand. When the ddNTPs are incorporated into a strand, they terminate it, leaving short fragments where they join the chain. Using gel electrophoresis, it is possible to image these fragments and determine the sequence of the original DNA strand. 
 >Media:
-
+- https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/marketing/global/images/technical-documents/protocols/genomics/sequencing/sanger-sequencing_steps_process_diagram/sanger-sequencing_steps_process_diagram.png 
 >Media Credit:
--
+- https://www.sigmaaldrich.com/CA/en/technical-documents/protocol/genomics/sequencing/sanger-sequencing
 >Media Caption:
-
+-
 >Media Thumbnail:
 -
 >Type:
