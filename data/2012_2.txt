@@ -19,7 +19,7 @@
 >Headline:
 CRISPR/Cas9 system invented
 >Text:
-A defense mechanism found in certain bacteria was utilized to create a system for the alteration of genetic material. 
+A defense mechanism found in certain bacteria was utilized to create a system for the alteration of genetic material, through the addition, deletion, or alteration of DNA sequences. Jennifer Doudna from the University of California, Berkley, and Emmanuelle Charpentier from Umeå University from Umeå, Sweden won the Nobel Prize in Chemistry for the discovery of the CRISPR/Cas9 system. 
 >Media:
 
 >Media Credit:
