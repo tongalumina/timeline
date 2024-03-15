@@ -20,9 +20,11 @@
 X chromosome sequenced in its entirety
 >Text:
 The gap-less telomere-to-telomere assembly of the first human chromosome is completed. 
->Media:
->Media Credit:
 -
+>Media:
+- https://news.ucsc.edu/2020/07/images/x-chromosome-410.jpg
+>Media Credit:
+- https://news.ucsc.edu/2020/07/x-chromosome.html
 >Media Caption:
 -
 >Media Thumbnail:
