@@ -1,0 +1,36 @@
+>Year:
+2005
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+The International HapMap Project sets out to develop a haplotype map
+>Text:
+The International HapMap Project launchs project to describe common patterns in haplotype across human populations around the world. Common patterns of DNA sequence variation was mapped and made publically available. 
+>Media:
+
+>Media Credit:
+
+>Media Caption:
+
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+Technical advancement 
+>Background:
+-
