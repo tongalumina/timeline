@@ -19,11 +19,11 @@
 >Headline:
 The International HapMap Project sets out to develop a haplotype map
 >Text:
-The International HapMap Project launchs project to describe common patterns in haplotype across human populations around the world. Common patterns of DNA sequence variation was mapped and made publically available. 
+The International HapMap Project launched a project to describe common patterns in haplotypes across human populations worldwide. Common patterns of DNA sequence variation were mapped and made publically available. DNA samples were taken from populations from Africa, Asia, and Europe. The HapMap project allowed for the discovery of sequence variations implicated in human diseases, aiding in our ability to correctly identify DNA sequences for treatments and interventions. 
 >Media:
-
+https://www.americangene.com/wp-content/uploads/2019/04/5-768x427.png
 >Media Credit:
-
+https://www.americangene.com/blog/scientific-discoveries-that-changed-lives/
 >Media Caption:
 
 >Media Thumbnail:
