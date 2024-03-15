@@ -19,11 +19,11 @@
 >Headline:
 CRISPR/Cas9 system invented
 >Text:
-A defense mechanism found in certain bacteria was utilized to create a system for the alteration of genetic material, through the addition, deletion, or alteration of DNA sequences. Jennifer Doudna from the University of California, Berkley, and Emmanuelle Charpentier from Umeå University from Umeå, Sweden won the Nobel Prize in Chemistry for the discovery of the CRISPR/Cas9 system. 
+A defense mechanism found in certain bacteria was repurposed as a gene editing tool by two scientists. Jennifer Doudna from the University of California, Berkley, and Emmanuelle Charpentier from Umeå University from Umeå, Sweden won the Nobel Prize in Chemistry for the discovery of the CRISPR/Cas9 system. CRISPR stands for Clustered Regularly Interspaced Short Palindromic Repeats. The Cas9 protein can cut DNA at the appropriate spot in these palindromic repeats with the use of guide RNA. The guide RNA is engineered by scientists to be complimentary to the gene to be edited, and introduced to target cells. The DNA is then cut and edited, genes can be added, deleted, or altered. 
 >Media:
-
+- https://images.contentstack.io/v3/assets/blte41c17d7f8dda379/bltf25c9d48f8acb349/5fec9ae8a7955d1a6a891bd5/crispr-nobel-prize.jpg?format=webply&quality=90&width=1440
 >Media Credit:
--
+- https://www.synthego.com/learn/crispr
 >Media Caption:
 -
 >Media Thumbnail:
