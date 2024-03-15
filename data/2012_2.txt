@@ -1,1 +1,37 @@
+>Year:
+2012
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+CRISPR/Cas9 system invented
+>Text:
+A defense mechanism found in certain bacteria was utilized to create a system for the alteration of genetic material. 
+>Media:
+
+>Media Credit:
+-
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+-
+>Background:
+-
 
