@@ -18,11 +18,11 @@
 -
 >Headline:
 The Encyclopedia of DNA Elements (ENCODE) project beings
->Text: The National Human Genome Research Insitute launched ENCODE to locate all the functional components of the human genome. Information on protein-coding genes, RNA genes, regulatory components, and non-coding DNA found in human DNA. </p>
+>Text: The National Human Genome Research Insitute launched ENCODE to locate and list all of the functional components of the human genome. Information on protein-coding genes, RNA genes, regulatory components, and non-coding DNA found in human DNA was collected. The project was announced in September 2003 by the National Human Genome Research Institute (NHGRI), a corporation that funded the research groups from the United States that collaborated on the ENCODE project.   </p>
 >Media:
-
+https://cherrylab.stanford.edu/sites/g/files/sbiybj20496/files/styles/responsive_large/public/media/image/encode-square_0_0.jpg.webp?itok=7BApTlh0
 >Media Credit:
-
+https://cherrylab.stanford.edu/projects/saccharomyces-genome-database/encode-encyclopedia-dna-elements
 >Media Caption:
 
 >Media Thumbnail:
