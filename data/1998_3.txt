@@ -1,1 +1,37 @@
+>Year:
+1998
+>Month:
+-
+>Day:
+-
+>Time:
+-
+>End Year:
+-
+>End Month:
+-
+>End Day:
+-
+>End Time:
+-
+>Display Date:
+-
+>Headline:
+RNA interference (RNAi) discovered by Andrew Fire and Craig Mello
+>Text:
+In 1998, two American scientists, Andrew Fire, and Craig Mello published a study that led them to win the Nobel Prize in Physiology or Medicine for that year. They discovered a fundamental mechanism, called RNA interference, that controls the flow of genetic information within the cell. RNA interference destroys mRNA molecules when they contain an identical sequence to existing double-stranded RNA molecules. This discovery could pave the way to technology that can silence genes related to human genetic diseases. 
+>Media:
+https://edit.nordicbiosite.com/app/uploads/istock-1295693748-1024x576.jpg
+>Media Credit:
+- https://nordicbiosite.com/blog/the-typical-rnai-workflow-in-5-steps
+>Media Caption:
+-
+>Media Thumbnail:
+-
+>Type:
+-
+>Group:
+HGP advancement
+>Background:
+-
 
