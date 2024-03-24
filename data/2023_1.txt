@@ -19,11 +19,11 @@
 >Headline:
 RNA splicing factor - Rbm25 - found to be implicated in Leukemia
 >Text:
- 
+The expression of Rbm25 was found to increase preleukemic clonal expansion, as leukemia is a clonal disease, modulated by the proliferation of white blood cells with certain antigens. This study found that the Tet2 genetic mutation causes variability in the expression of Rbm25, increasing the risk for leukemia. 
 >Media:
-
+https://www.mdanderson.org/cancerwise/2022/08/what-are-the-types-of-leukemia--5-things-to-know/jcr:content/blog/adaptiveimage.resize.648.0.medium.dir.jpg/1659535933691.jpg
 >Media Credit:
-
+https://www.mdanderson.org/cancerwise/what-are-the-types-of-leukemia--5-things-to-know.h00-159542112.html
 >Media Caption:
 -
 >Media Thumbnail:
