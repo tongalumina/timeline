@@ -19,11 +19,11 @@
 >Headline:
 CRISPR (clustered regularly interspaced short palindromic repeats) discovered in E.coli
 >Text:
-
+Before the invention of the CRISPR-Cas9 system as a tool for gene editing, many scientists had contributed to the knowledge base surrounding clustered regularly interspaced short palindromic repeats. In 1987, one Japanese scientist, Yoshizomi Ishino, and his team discovered the CRISPR sequences in E.coli DNA. Ishino and his team published a paper on the sequence of the iap gene in E.coli, he noted that the gene contained repeating sequences of 29 base pairs. At the time, Ishino did not name these sequences, nor did he understand their function. It was Francisco Mojica who gave these sequences the name CRISPR and determined that their use was as a defense against viruses. 
 >Media:
-
+https://bazisgroup.com/wp-content/uploads/2021/08/3-3.png
 >Media Credit:
-
+https://bazisgroup.com/a-visual-history-of-the-game-changing-crispr-gene-editing-technology/
 >Media Caption:
 -
 >Media Thumbnail:
@@ -31,7 +31,7 @@ CRISPR (clustered regularly interspaced short palindromic repeats) discovered in
 >Type:
 -
 >Group:
-Technological advancement
+
 >Background:
 -
 
