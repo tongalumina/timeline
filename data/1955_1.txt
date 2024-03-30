@@ -20,11 +20,10 @@
 Human Chromosome number discovered
 >Text:
 The number of individual human chromosomes was found to be 46 (or 23 pairs) through research conducted by J.H. Tjio and A. Levan in 1955. 	
-
 >Media:
-
+https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00439-005-0121-x/MediaObjects/439_2005_121_Fig5_HTML.jpg?as=webp
 >Media Credit:
-
+https://link.springer.com/article/10.1007/s00439-005-0121-x#Sec6
 >Media Caption:
 -
 >Media Thumbnail:
