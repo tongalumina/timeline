@@ -17,13 +17,13 @@
 >Display Date:
 -
 >Headline:
-Mitosis discovered by Walter Fleming
+Mitosis discovered by Walther Fleming
 >Text:
-The process of mitosis, or cell division in somatic cells, was discovered in salamander embryos by Walter Fleming.
+The process of mitosis, or cell division in somatic cells, was discovered in salamander embryos by Walther Fleming. His research consisted of meticulous drawings of animal cells, specifically referencing dyed cells residing in the fins and gills of salamanders. The illustrations depicted the different stages of cell division in great detail, leading Fleming to name the genetic material "chromatin". 
 >Media:
-
+https://www.nature.com/wls/content/43904/10.1038_35048077-f2_full.gif
 >Media Credit:
-
+https://www.nature.com/wls/content/drawing-of-mitosis-by-walther-flemming-43904/
 >Media Caption:
 
 >Media Thumbnail:
