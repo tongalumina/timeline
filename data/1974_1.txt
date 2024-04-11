@@ -20,7 +20,6 @@
 Issuing of Belmont report on the use of human subjects in research
 >Text:
 	In the past, the use of human subjects was a common point of interest for researchers. During the Nuremberg Trials, after World War II, Nazi scientists were convicted for their crimes against human subjects, such as conducting experiments that had no regard for human rights or life. This gave rise to the Nuremberg Code, an early document addressing ethical research on human subjects. However, the Nuremberg Code was inadequate, often being difficult to interpret or apply. There would be many code prototypes before the creation of the Belmont Report. The Belmont report was written by the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research to underlie conduct while studying human subjects. The Belmont report contains three basic ethical principles, Respect of Persons, Beneficence, and Justice. From its founding in 1974 to the modern clinical trials of the present, the Belmont Report continues to enforce ethical decision-making and protect human subjects. 
-
 >Media:
 https://digital.library.unt.edu/ark:/67531/metadc1213677/m1/1/high_res/
 >Media Credit:
