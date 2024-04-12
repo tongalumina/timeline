@@ -19,7 +19,7 @@
 >Headline:
 Hi-C Sequencing invented
 >Text:
-Hi-C sequencing was invented in 2009 by Erez Lieberman Aiden and Job Dekker. This technique allows for the study of three-dimensional interactions between different regions of the genome. Hi-C sequencing involves the cross-linking of chromatin at sequence interactions throughout the entire genome and subsequent fragmentation of the chromatin using restriction enzymes. The raw ends are biotinylated and ligated. Sequencing of the DNA fragments will reveal the areas of the chromatin that interact within the cell. 
+Hi-C sequencing was invented in 2009 by Erez Lieberman Aiden and Job Dekker. This technique allows for the study of three-dimensional interactions between different regions of the genome. Hi-C sequencing involves the cross-linking of chromatin at sequence interactions throughout the entire genome and subsequent fragmentation of the chromatin using restriction enzymes. The raw ends are biotinylated and ligated. Sequencing of the DNA fragments reveals the areas of the chromatin that interact within the cell. 
 >Media:
 https://www.researchgate.net/profile/Aaron-Lun/publication/281141849/figure/fig1/AS:271550435819538@1441754078038/Main-steps-in-the-Hi-C-protocol-prior-to-sequencing-Chromatin-is-cross-linked-and.png
 >Media Credit:
