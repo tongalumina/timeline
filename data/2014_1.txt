@@ -19,7 +19,7 @@
 >Headline:
 Nanopore Sequencing
 >Text:
-The MinION nanopore DNA sequencer was released to the scientific community in April 2014 by Oxford Nanopore Technologies (ONT). This technology enabled users to quickly read DNA and RNA sequences, being faster, less expensive, and more widely available than its predecessors. Nanopore sequencing works by measuring changes in electric current as DNA and RNA fragments are passed through a protein nanopore. A protein nanopore is a small pore made up of protein. 
+The MinION nanopore DNA sequencer was released to the scientific community in April 2014 by Oxford Nanopore Technologies (ONT). This technology enabled users to quickly read DNA and RNA sequences, being faster, less expensive, and more widely available than its predecessors. Nanopore sequencing works by measuring changes in electric current as DNA and RNA fragments are passed through a protein nanopore; a small pore made up of protein. 
 >Media:
 https://www.yourgenome.org/wp-content/uploads/2023/10/551-ONT-Seq-.png.webp
 >Media Credit:
