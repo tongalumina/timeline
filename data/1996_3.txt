@@ -20,7 +20,6 @@
 First archaeal genome sequenced
 >Text:
 Before 1996, it was believed that there were only two branches of living organisms; prokaryotes and eukaryotes. The sequencing of Methanococcus Jannaschii demonstrated a new branch of life, archaea. The whole-genome irregular shotgun method was used to sequence the genome. Overall, researchers were able to accurately predict its 1738 protein-coding sequences. It was found that organisms classed under archaea lacked a nucleus like prokaryotes, but had several genes that varied from prokaryotes.    
-
 >Media:
 https://i.pinimg.com/originals/18/6b/48/186b48902f9cc8d2d4fe145bbfea43df.png
 >Media Credit:
