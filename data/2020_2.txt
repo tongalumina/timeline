@@ -19,7 +19,7 @@
 >Headline:
 X chromosome sequenced in its entirety
 >Text:
-The gap-less telomere-to-telomere assembly of the first human chromosome is completed. The X chromosome was chosen over the Y chromosome, because many human diseases are linked to the X chromosome, including hemophilia and Duchenne muscular Dystrophy. The X chromosome was sequenced by Phillipy and Karen Miga at the University of California, Santa Cruz. The DNA sequence was procured from a special cell type with two identical X chromosomes before a computer program was used to assemble individual sequence segments. Due to the efforts of Miga's team, the largest remaining sequence gap, the centromere, was closed. 
+The gap-less telomere-to-telomere assembly of the first human chromosome is completed. The X chromosome was chosen over the Y chromosome, because many human diseases are linked to the X chromosome, including hemophilia and Duchenne Muscular Dystrophy. The X chromosome was sequenced by Phillipy and Karen Miga at the University of California, Santa Cruz. The DNA sequence was procured from a special cell type with two identical X chromosomes before a computer program was used to assemble individual sequence segments. Due to the efforts of Miga's team, the largest remaining sequence gap, the centromere, was closed. 
 -
 >Media:
 - https://news.ucsc.edu/2020/07/images/x-chromosome-410.jpg
