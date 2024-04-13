@@ -19,7 +19,7 @@
 >Headline:
 The Human Pangenome Project begins
 >Text:
-The Human Genome Project was a vital advancement in genomics, but it did not consist of a diverse human population. The Human Pangenome Project promises to diversify our knowledge of human DNA sequences and to collect whole-genome sequences from diverse populations around the world. 
+The Human Genome Project was a vital advancement in genomics, but it did not consist of a diverse human population. The Human Pangenome Project promises to diversify our knowledge of human DNA sequences and to collect whole-genome sequences from diverse populations around the world. The project is being led by the International Human Pangenome Reference Consortium and is being funded by the National Human Genome Research Insitute. The project is projected to be completed in mid-2024.
 >Media:
 -https://news.yale.edu/sites/default/files/styles/featured_media/public/ynews-pangenome.jpg?itok=aww2KY1D&c=a75e254fe1da31f2732f6b0d7bce1413
 >Media Credit:
