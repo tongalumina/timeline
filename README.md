@@ -1,0 +1,1 @@
+This project contains codes to build a timeline using the KnightLab timeline3.js and sync content between the Google Sheet with a GitHub repository so that one can track the changes and make edits in GitHub, and the changes uploaded to the Google Sheet by one click.
