@@ -1,0 +1,203 @@
+//Link expiration
+//archive today web page
+
+//Create an Image iso file in docker that can have only the required softwares
+//Linux(u need to have bash), MEGA, PyMOL, BLAST, dotter
+
+//Sheets API to deploy code from github to sheets
+//Appscript code deployment - dev.to
+
+// Function to fetch data from GitHub and update the timeline
+function syncWithGitHub() {
+  var githubRepoUrl = 'https://api.github.com/repos/jainam124/Test_Sheets1/contents/data3'; // Update folder to data2
+  var githubToken = 'Github_Token';
+
+  try {
+    // Fetch the list of files in the data2 folder from GitHub
+    var response = UrlFetchApp.fetch(githubRepoUrl, {
+      headers: {
+        Authorization: 'Bearer ' + githubToken,
+      },
+    });
+    var fileList = JSON.parse(response.getContentText());
+
+    // Clear existing data in the Google Sheet
+    var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+    sheet.clear();
+
+    // Append header row
+    var headerRow = ['Year', 'Month', 'Day', 'Time', 'End Year', 'End Month', 'End Day', 'End Time', 'Display Date', 'Headline', 'Text', 'Media','Media Credit','Media Caption', 'Media Thumbnail', 'Type', 'Group', 'Background'];
+    sheet.appendRow(headerRow);
+
+    // Iterate through each file in the data2 folder
+    for (var i = 0; i < fileList.length; i++) {
+      var file = fileList[i];
+      if (file.type === 'file' && file.name.endsWith('.txt')) {
+        var fileContent = fetchFileContent(file.download_url, githubToken);
+        var rowData = parseFasta(fileContent);
+
+        // Append row data to the sheet
+        sheet.appendRow(rowData);
+      }
+    }
+  } catch (error) {
+    Logger.log("Error fetching data from GitHub: " + error.toString());
+  }
+}
+
+// Helper function to parse FASTA format content into row data
+function parseFasta(fileContent) {
+  var rowData = [];
+  var lines = fileContent.split('\n');
+  var currentField = '';
+
+  // Iterate through each line
+  lines.forEach(function(line) {
+    if (line.startsWith('>')) {
+      // New field
+      currentField = line.substring(1).trim();
+    } else if (line.trim() !== '') {
+      // Append to current field's value if not an empty line
+      var value = line.trim();
+      if (currentField) {
+        rowData.push(value === '-' ? '' : value);
+      }
+    }
+  });
+
+  return rowData;
+}
+
+
+
+// Helper function to fetch content of a text file
+function fetchFileContent(fileUrl, token) {
+  var response = UrlFetchApp.fetch(fileUrl, {
+    headers: {
+      Authorization: 'Bearer ' + token,
+    },
+  });
+  return response.getContentText();
+}
+
+// Function to sync data from Google Sheets to GitHub
+function syncToGitHub() {
+  var githubRepoUrl = 'https://api.github.com/repos/jainam124/Test_Sheets1/contents/data4'; // Update with your repository details
+  var githubToken = 'Github_Token';
+
+  try {
+    var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+    var data = sheet.getDataRange().getValues();
+
+    // Object to store counts of years
+    var yearCounts = {};
+
+    // Iterate through each row in the sheet
+    data.forEach(function(row, index) {
+      // Skip header row
+      if (index === 0) return;
+
+      // Generate file content in FASTA format
+      var fileContent = generateFastaContent(row);
+
+      // Get year from the row
+      var year = row[0] !== '' ? row[0] : '0000';
+
+      // Get count for the year
+      var count = (yearCounts[year] || 0) + 1;
+
+      // Increment count for the year
+      yearCounts[year] = count;
+
+      // Define file name based on the year and count
+      var fileName = year + '_' + count + '.txt';
+
+      // Create payload for GitHub API
+      var payload = {
+        message: 'Adding file ' + fileName,
+        content: Utilities.base64Encode(fileContent),
+      };
+
+      // Create the file in GitHub
+      var response = UrlFetchApp.fetch(githubRepoUrl + '/' + fileName, {
+        method: 'PUT',
+        headers: {
+          Authorization: 'Bearer ' + githubToken,
+        },
+        payload: JSON.stringify(payload),
+      });
+
+      Logger.log('File ' + fileName + ' created: ' + response.getResponseCode());
+    });
+  } catch (error) {
+    Logger.log("Error syncing data to GitHub: " + error.toString());
+  }
+}
+
+// Function to generate file content in FASTA format
+function generateFastaContent(rowData) {
+  var fileContent = '';
+
+  // Iterate through each field in the row
+  for (var i = 0; i < rowData.length; i++) {
+    // Add field name and value to the file content
+    fileContent += '>' + getFieldName(i) + ':\n' + (rowData[i] !== '' ? rowData[i] : '-') + '\n';
+  }
+
+  return fileContent;
+}
+
+// Function to get the field name based on index
+function getFieldName(index) {
+  switch (index) {
+    case 0:
+      return 'Year';
+    case 1:
+      return 'Month';
+    case 2:
+      return 'Day';
+    case 3:
+      return 'Time';
+    case 4:
+      return 'End Year';
+    case 5:
+      return 'End Month';
+    case 6:
+      return 'End Day';
+    case 7:
+      return 'End Time';
+    case 8:
+      return 'Display Date';
+    case 9:
+      return 'Headline';
+    case 10:
+      return 'Text';
+    case 11:
+      return 'Media';
+    case 12:
+      return 'Media Credit';
+    case 13:
+      return 'Media Caption';
+    case 14:
+      return 'Media Thumbnail';
+    case 15:
+      return 'Type';
+    case 16:
+      return 'Group';
+    case 17:
+      return 'Background';
+    default:
+      return '';
+  }
+}
+
+// Function to create a custom menu
+function onOpen() {
+  var ui = SpreadsheetApp.getUi();
+
+  // Create a menu in the Google Sheet
+  ui.createMenu('Custom Menu')
+    .addItem('Sync with GitHub', 'syncWithGitHub')
+    .addItem('Sync to GitHub', 'syncToGitHub')
+    .addToUi();
+}
